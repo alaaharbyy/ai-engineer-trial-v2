@@ -92,9 +92,6 @@ Two or three sentences each, in this README:
 - An employee is removed from the `finance` group in the source system. In your design, how long until they stop getting finance chunks, and what would you change for production?
 - Which part of your solution are you least confident is airtight, and why?
 
-## What not to worry about
-
-Whether you used an AI coding assistant. Which embedding model, LLM or tool-calling convention you pick. Kubernetes, cloud deployment or multiple machines. A front end beyond the provided UI. Edge cases beyond the given data. Code polish under time pressure.
 
 ## Submitting
 
