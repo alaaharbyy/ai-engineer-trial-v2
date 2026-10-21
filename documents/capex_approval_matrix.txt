@@ -1,0 +1,11 @@
+CAPITAL EXPENDITURE APPROVAL MATRIX (Finance)
+
+Capital projects are approved according to their total budgeted cost:
+
+- Up to USD 25,000: Property Manager
+- USD 25,001 to 150,000: Regional Director
+- USD 150,001 to 750,000: Chief Financial Officer
+- Above USD 750,000: Investment Committee
+
+Emergency repairs required for safety may start before approval, but must be submitted for approval within five business days.
+Splitting one project into smaller requests to avoid a higher approval level is not allowed.

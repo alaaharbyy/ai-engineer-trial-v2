@@ -1,0 +1,19 @@
+# Run each question as the listed user (Task 3).
+- id: q1
+  user: analyst_1
+  question: How long does a tenant have to return a signed estoppel certificate, and how long is it valid after signing?
+- id: q2
+  user: leasing_1
+  question: What is the maximum rent increase on a standard lease renewal without extra sign-off?
+- id: q3
+  user: staff_1
+  question: Did any of our properties need a covenant waiver from a lender this year? What did it cost?
+- id: q4
+  user: analyst_1
+  question: How many weeks of paid parental leave do employees get?
+- id: q5
+  user: analyst_1
+  question: What is the debt service coverage ratio for Harbor Point (P-104)?
+- id: q6
+  user: analyst_1
+  question: What is the DSCR for property P-120?

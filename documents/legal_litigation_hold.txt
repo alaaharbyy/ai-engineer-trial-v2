@@ -1,0 +1,7 @@
+LITIGATION HOLD NOTICE PROCESS (Legal only)
+
+When the company reasonably expects a lawsuit, Legal issues a litigation hold notice to every employee who may hold relevant records.
+
+Recipients must preserve all related emails, files and chat messages, and must not delete or edit them, until Legal releases the hold in writing.
+
+Legal reviews every active hold each quarter. IT must suspend automatic deletion for the mailboxes of everyone under a hold.

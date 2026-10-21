@@ -1,0 +1,8 @@
+loan_id,property_id,lender,principal,interest_rate,annual_debt_service
+L-01,P-101,Northgate Bank,18000000,0.072,1795000
+L-02,P-102,Delta Credit,11500000,0.068,1210000
+L-03,P-103,Delta Credit,8200000,0.070,905000
+L-04,P-104,Northgate Bank,16000000,0.071,1610000
+L-05,P-104,Nile Mezzanine Fund,4000000,0.115,560000
+L-06,P-105,Northgate Bank,14500000,0.069,1380000
+L-07,P-106,Sinai Commercial Bank,7600000,0.074,840000

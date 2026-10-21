@@ -1,0 +1,10 @@
+# Which groups may read each document.
+# "everyone" means any signed-in user, regardless of their own groups.
+leasing_renewal_policy.txt: [leasing]
+tenant_improvement_guidelines.txt: [leasing]
+finance_q3_lender_review.txt: [finance]
+legal_estoppel_procedure.txt: [legal, finance]
+legal_litigation_hold.txt: [legal]
+capex_approval_matrix.txt: [finance]
+travel_expense_policy.txt: [everyone]
+it_acceptable_use.txt: [everyone]

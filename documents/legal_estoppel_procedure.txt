@@ -1,0 +1,9 @@
+ESTOPPEL CERTIFICATE PROCEDURE (Legal, shared with Finance)
+
+An estoppel certificate is a signed statement from a tenant confirming the key terms of its lease. Lenders and buyers request them during financing and sales.
+
+1. Legal prepares the certificate from the lease abstract and sends it to the tenant.
+2. Tenants must return the signed certificate within 10 business days. Most leases require this; check the lease clause before chasing.
+3. If a tenant has not responded after 7 business days, Legal sends a reminder and copies the property manager.
+4. Any tenant comment that disagrees with the lease abstract must be escalated to the General Counsel before the certificate is released to the lender.
+5. Certificates are only valid for 30 days after signing.
